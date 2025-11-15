@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=26d9d9&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Passionate+Learner+%F0%9F%9A%80)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=700&color=26d9d9&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Passionate+Learner+%F0%9F%9A%80)
   
 </div>
 
@@ -86,13 +86,13 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
 
 </div>
 
+## 📊 GitHub Stats
+
 <div align='center'>
   
   <!-- Show only specific languages -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grvenkat40&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF)
 </div>
-
-## 📊 GitHub Stats
 
 <div align="center">
   
