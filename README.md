@@ -48,6 +48,7 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-11527c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 <p align="center">
   <strong>Pandas</strong> • <strong>NumPy</strong> • <strong>Matplotlib</strong>
