@@ -50,17 +50,10 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-11527c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
-<p align="center">
-  <strong>Pandas</strong> • <strong>NumPy</strong> • <strong>Matplotlib</strong>
-</p>
 
 ### Big Data & Engineering
 <p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-</p>
-<p align="center">
-  <strong>Apache Spark</strong> • <strong>PySpark</strong>
 </p>
 
 ### Databases
@@ -108,14 +101,6 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grvenkat40&theme=radical&hide_border=true&background=0D1117&ring=3F8EFF&fire=FF6B6B&currStreakLabel=3F8EFF)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grvenkat40&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=grvenkat40&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
