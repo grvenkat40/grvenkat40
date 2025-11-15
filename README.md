@@ -1,54 +1,65 @@
-## Hi there 👋
-
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Venkat GR!
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8EFF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8EFF&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Passionate+Learner+%F0%9F%9A%80)
   
 </div>
 
 ## 🚀 About Me
 
-```javascript
-const aboutMe = {
-    name: "Your Name",
-    location: "Tirupati, India 🇮🇳",
-    role: "Software Developer",
-    interests: ["Coding", "Open Source", "Learning"],
-    currentFocus: "Building amazing projects",
-    funFact: "I debug with console.log() 🐛"
-};
-```
+I'm a passionate **Python Developer** and **Data Professional** from India 🇮🇳, specializing in building data-driven solutions and engineering scalable systems. With expertise spanning across data engineering, analytics, and backend development, I love transforming raw data into actionable insights and creating efficient data pipelines.
+
+**What I do:**
+- 🐍 Build robust applications using Python and SQL
+- 📊 Engineer and optimize data pipelines with PySpark
+- 🔍 Analyze complex datasets to drive business decisions
+- 🤖 Develop machine learning models with PyTorch, TensorFlow, and scikit-learn
+- 📈 Create insightful visualizations using Power BI, Matplotlib, and data analysis tools
+
+**Beyond coding:**
+- ♟️ Chess enthusiast - I enjoy strategic thinking both on and off the board
+- 📚 Constantly upskilling and learning new technologies
+- 💡 Problem solver who loves tackling challenging data problems
+- 🎯 Focused on continuous improvement and best practices
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Big Data & Engineering
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web Framework
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Data Structures & Algorithms
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
 
@@ -56,11 +67,11 @@ const aboutMe = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF&icon_color=3F8EFF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grvenkat40&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF&icon_color=3F8EFF)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=3F8EFF&fire=FF6B6B&currStreakLabel=3F8EFF)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grvenkat40&theme=radical&hide_border=true&background=0D1117&ring=3F8EFF&fire=FF6B6B&currStreakLabel=3F8EFF)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grvenkat40&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF)
 
 </div>
 
@@ -68,7 +79,7 @@ const aboutMe = {
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=grvenkat40&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -76,16 +87,18 @@ const aboutMe = {
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3F8EFF&line=3F8EFF&point=FFFFFF)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grvenkat40&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3F8EFF&line=3F8EFF&point=FFFFFF)
 
 </div>
 
-## 🎯 Current Projects
+## 🎯 Current Focus
 
-- 🔨 Working on something awesome
-- 🌱 Learning new technologies
-- 👯 Looking to collaborate on open source
-- 💬 Ask me about web development
+- 🔨 Building data pipelines and analytics solutions
+- 🌱 Deepening my expertise in big data technologies and cloud platforms
+- 🤖 Exploring advanced machine learning and deep learning techniques
+- ♟️ Sharpening my chess skills and strategic thinking
+- 💬 Ask me about Python, SQL, Data Engineering, or Machine Learning
+- 📫 Open to collaborating on data-driven projects
 
 ## 🤝 Connect With Me
 
@@ -112,24 +125,8 @@ const aboutMe = {
   
   ### ⭐ Show some love by starring some repositories!
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3F8EFF&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=grvenkat40&color=3F8EFF&style=flat-square&label=Profile+Views)
   
   **Happy Coding!** 💻✨
 
 </div>
-
-
-<!--
-**grvenkat40/grvenkat40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
