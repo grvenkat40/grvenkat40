@@ -29,38 +29,42 @@ I'm a passionate **Python Developer** and **Data Professional** from India ðŸ‡®ð
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Programming Languages" />
 </p>
 
 ### Data Science & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML Frameworks" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML Frameworks" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48" alt="Matplotlib" />
+</p>
+
+### Big Data & Engineering
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="48" alt="Apache Spark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="48" alt="PySpark" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
 </p>
 
 ### Web Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
 </p>
 
-### Additional Skills
+### Data Structures & Algorithms
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
 </p>
 
