@@ -29,43 +29,71 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming Languages" />
+</p>
+<p align="center">
+  <strong>Python</strong> • <strong>Java</strong> • <strong>HTML</strong> • <strong>CSS</strong>
 </p>
 
 ### Data Science & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML Frameworks" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML Frameworks" />
+</p>
+<p align="center">
+  <strong>PyTorch</strong> • <strong>TensorFlow</strong> • <strong>Scikit-learn</strong>
+</p>
+
+### Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+<p align="center">
+  <strong>Pandas</strong> • <strong>NumPy</strong> • <strong>Matplotlib</strong>
 </p>
 
 ### Big Data & Engineering
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="48" alt="Apache Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="48" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+</p>
+<p align="center">
+  <strong>Apache Spark</strong> • <strong>PySpark</strong>
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+</p>
+<p align="center">
+  <strong>MySQL</strong> • <strong>PostgreSQL</strong>
 </p>
 
 ### Web Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" />
+</p>
+<p align="center">
+  <strong>Flask</strong>
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+<p align="center">
+  <strong>Git</strong> • <strong>GitHub</strong> • <strong>Jupyter Notebook</strong> • <strong>Power BI</strong>
 </p>
 
 ### Data Structures & Algorithms
 <p>
   <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
+</p>
+<p align="center">
+  <strong>Data Structures & Algorithms</strong>
 </p>
 
 </div>
