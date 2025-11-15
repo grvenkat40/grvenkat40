@@ -10,18 +10,24 @@
 
 I'm a passionate **Python Developer** and **Data Professional** from India 🇮🇳, specializing in building data-driven solutions and engineering scalable systems. With expertise spanning across data engineering, analytics, and backend development, I love transforming raw data into actionable insights and creating efficient data pipelines.
 
-**What I do:**
-- 🐍 Build robust applications using Python and SQL
-- 📊 Engineer and optimize data pipelines with PySpark
-- 🔍 Analyze complex datasets to drive business decisions
-- 🤖 Develop machine learning models with PyTorch, TensorFlow, and scikit-learn
-- 📈 Create insightful visualizations using Power BI, Matplotlib, and data analysis tools
-
 **Beyond coding:**
 - ♟️ Chess enthusiast - I enjoy strategic thinking both on and off the board
 - 📚 Constantly upskilling and learning new technologies
 - 💡 Problem solver who loves tackling challenging data problems
 - 🎯 Focused on continuous improvement and best practices
+
+## 💭 Quote
+</div>
+
+<div align="center">
+
+<img 
+  src="https://img.shields.io/badge/NO%20TREE%20REACHES%20HEAVEN%20UNLESS%20ITS%20ROOTS%20REACH%20DOWN%20TO%20HELL-802dd2?style=for-the-badge&logoColor=white" 
+  width="800" 
+  height="80"
+/>
+
+<br>
 
 ## 💻 Tech Stack
 
@@ -31,16 +37,13 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming Languages" />
 </p>
-<p align="center">
-  <strong> Python </strong> • <strong> Java </strong> • <strong> HTML </strong> • <strong> CSS </strong>
-</p>
 
 ### Data Science & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML Frameworks" />
 </p>
 <p align="center">
-  <strong>PyTorch</strong> • <strong>TensorFlow</strong> • <strong>Scikit-learn</strong>
+  <strong><ins>PyTorch</ins></strong> • <strong><ins>TensorFlow</ins></strong> • <strong><ins>Scikit-learn</ins></strong>
 </p>
 
 ### Data Analysis & Visualization
@@ -48,7 +51,7 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-11527c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-11527c?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
 ### Big Data & Engineering
@@ -60,16 +63,13 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
 </p>
-<p align="center">
-  <strong>MySQL</strong> • <strong>PostgreSQL</strong>
-</p>
 
 ### Web Framework
 <p>
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" />
 </p>
 <p align="center">
-  <strong>Flask</strong>
+  <strong><ins>Flask</ins></strong>
 </p>
 
 ### Tools & Platforms
@@ -78,18 +78,18 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
-<p align="center">
-  <strong>Git</strong> • <strong>GitHub</strong> • <strong>Jupyter Notebook</strong> • <strong>Power BI</strong>
-</p>
 
 ### Data Structures & Algorithms
 <p>
   <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
 </p>
-<p align="center">
-  <strong>Data Structures & Algorithms</strong>
-</p>
 
+</div>
+
+<div align='center'>
+  
+  <!-- Show only specific languages -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grvenkat40&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF)
 </div>
 
 ## 📊 GitHub Stats
@@ -104,6 +104,7 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
 
 </div>
 
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -112,35 +113,15 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
 
 </div>
 
-## 🎯 Current Focus
-
-- 🔨 Building data pipelines and analytics solutions
-- 🌱 Deepening my expertise in big data technologies and cloud platforms
-- 🤖 Exploring advanced machine learning and deep learning techniques
-- ♟️ Sharpening my chess skills and strategic thinking
-- 💬 Ask me about Python, SQL, Data Engineering, or Machine Learning
-- 📫 Open to collaborating on data-driven projects
-
 ## 🤝 Connect With Me
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatgr/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://venkatgr.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grvenkat456@gmail.com)
 
 </div>
-
-## 💭 Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   
