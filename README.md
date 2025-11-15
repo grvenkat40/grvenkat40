@@ -32,7 +32,7 @@ I'm a passionate **Python Developer** and **Data Professional** from India 🇮�
   <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming Languages" />
 </p>
 <p align="center">
-  <strong>Python</strong> • <strong>Java</strong> • <strong>HTML</strong> • <strong>CSS</strong>
+  <strong> Python </strong> • <strong> Java </strong> • <strong> HTML </strong> • <strong> CSS </strong>
 </p>
 
 ### Data Science & Machine Learning
