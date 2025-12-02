@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=700&color=26d9d9&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Passionate+Learner+%F0%9F%9A%80)
   
 </div>
-  <b>💭 Quote</b>
+  <b>## 💭 Quote</b>
 </div>
 
 <div align="center">
@@ -24,7 +24,12 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,r&theme=dark" alt="Programming Languages" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Programming Languages" />
 </p>
 
 ### Data Science & Machine Learning
@@ -55,7 +60,7 @@
 
 ### Web Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=flask,django&theme=dark" alt="Flask" />
 </p>
 <p align="center">
   <strong><ins>Flask</ins></strong>
