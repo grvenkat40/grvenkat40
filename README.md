@@ -4,10 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=700&color=26d9d9&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Passionate+Learner+%F0%9F%9A%80)
   
-</div>
-  <b>## 💭 Quote</b>
-</div>
-
+## 💭 Quote
 <div align="center">
 
 <img 
