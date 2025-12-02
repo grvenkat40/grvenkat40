@@ -75,25 +75,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align='center'>
-  
-  <!-- Show only specific languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grvenkat40&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF)
-</div>
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grvenkat40&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF&icon_color=3F8EFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grvenkat40&theme=radical&hide_border=true&background=0D1117&ring=3F8EFF&fire=FF6B6B&currStreakLabel=3F8EFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grvenkat40&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3F8EFF)
-
-</div>
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
