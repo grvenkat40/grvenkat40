@@ -64,6 +64,7 @@
 </p>
 <p align="center">
   <strong><ins>Flask</ins></strong>
+  <strong><ins>Django</ins></strong>
 </p>
 
 ### Tools & Platforms
