@@ -24,7 +24,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" alt="Programming Languages" />
 </p>
 
 ### Data Science & Machine Learning
