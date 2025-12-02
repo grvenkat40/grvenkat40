@@ -5,17 +5,6 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=700&color=26d9d9&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Passionate+Learner+%F0%9F%9A%80)
   
 </div>
-
-## 🚀 About Me
-
-I'm a passionate **Python Developer** and **Data Professional** from India 🇮🇳, specializing in building data-driven solutions and engineering scalable systems. With expertise spanning across data engineering, analytics, and backend development, I love transforming raw data into actionable insights and creating efficient data pipelines.
-
-**Beyond coding:**
-- ♟️ Chess enthusiast - I enjoy strategic thinking both on and off the board
-- 📚 Constantly upskilling and learning new technologies
-- 💡 Problem solver who loves tackling challenging data problems
-- 🎯 Focused on continuous improvement and best practices
-
 ## 💭 Quote
 </div>
 
