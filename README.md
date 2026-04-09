@@ -57,11 +57,12 @@
 
 ### Web Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,django&theme=dark" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark" alt="Flask" />
 </p>
 <p align="center">
   <strong><ins>Flask</ins></strong>
   <strong><ins>Django</ins></strong>
+  <strong><ins>FastAPI</ins></strong>
 </p>
 
 ### Tools & Platforms
